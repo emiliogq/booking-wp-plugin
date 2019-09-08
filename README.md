@@ -1,2 +1,2 @@
-# booking-wp-plugin
+# Booking Wordpress plugin
 Booking Wordpress plugin
